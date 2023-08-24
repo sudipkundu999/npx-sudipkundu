@@ -1,9 +1,9 @@
-Hey there! I'm Sudip Kundu
+Hey there! I'm Sudip Kundu and this is my first npm package!
 
-This is my first npm package
-
-To run this locally
+Run this in your terminal
 
 ```
 npx sudipkundu
 ```
+
+![Terminal preview](showcase.png)
