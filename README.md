@@ -6,4 +6,4 @@ Run this in your terminal
 npx sudipkundu
 ```
 
-![Terminal preview](showcase.png)
+![](showcase.png)
